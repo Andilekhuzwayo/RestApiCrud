@@ -1,2 +1,1 @@
-# RestApiCrud
-Rest Api Crud Project
+# spring-boot-crud-example
